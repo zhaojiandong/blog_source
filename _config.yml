@@ -69,6 +69,6 @@ theme: next
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:zhaojiandong/zhaojiandong.github.io.git
+  repo: git@github-zjd1023:zhaojiandong/zhaojiandong.github.io.git
   branch: master
   message: 'init'
